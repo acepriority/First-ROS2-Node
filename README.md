@@ -53,6 +53,7 @@
 # First-ROS2-Node
 
 This is a Python script for a ROS2 node that demonstrates the use of the rclpy package. It defines a class MyNode that inherits from rclpy.node.Node, and overrides its __init__ and timer_callback methods.
+
 Requirements
 
 This script requires rclpy package to be installed. rclpy is a Python client library for ROS2 that enables Python developers to write ROS2 nodes in Python.
